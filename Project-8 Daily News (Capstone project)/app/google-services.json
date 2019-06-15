@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719950123013",
+    "firebase_url": "https://caps-1560173989349.firebaseio.com",
+    "project_id": "caps-1560173989349",
+    "storage_bucket": "caps-1560173989349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719950123013:android:398ac4c50fe7bc9c",
+        "android_client_info": {
+          "package_name": "com.surya.dailynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719950123013-ehktnpruds2vh8j21bs89cm05euakn1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0J6evhfLG5IELVGewStI8NvTFrTQCDEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719950123013-ehktnpruds2vh8j21bs89cm05euakn1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

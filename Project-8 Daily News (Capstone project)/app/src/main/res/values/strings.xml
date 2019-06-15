@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="title_activity_main">Daily News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Daily News</string>
+    <string name="nav_header_subtitle">Get news at your Finger Tips</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_headlines_us">Business in US</string>
+    <string name="menu_techcrunch">India</string>
+    <string name="menu_wallstreet">Wall Street Journal</string>
+    <string name="menu_bitcoin">Bitcoin</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="top_bussiness_headlines">https://newsapi.org/v2/top-headlines?country=us&#38;category=business&#38;apiKey=9fa40459753e44ed85e6e868cf22f953</string>
+    <string name="top_tech_crunch"><![CDATA[https://newsapi.org/v2/everything?q=india&from=2019–05–09&sortBy=publishedAt&apiKey=9fa40459753e44ed85e6e868cf22f953]]></string>
+    <string name="top_wall_street">https://newsapi.org/v2/everything?domains=wsj.com&#38;apiKey=9fa40459753e44ed85e6e868cf22f953</string>
+    <string name="top_bitcoin"><![CDATA[https://newsapi.org/v2/everything?q=bitcoin&from=2019–05–09&sortBy=publishedAt&apiKey=9fa40459753e44ed85e6e868cf22f953]]></string>
+    <string name="error_text_speech">Error in converting Text to Speech!</string>
+    <string name="reg">New User? Register now.</string>
+    <string name="login">Login</string>
+    <string name="log">Already a User? Login now.</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="source">Source</string>
+    <string name="comm">Communicate</string>
+    <string name="daily">Daily News</string>
+    <string name="loading">Loading....</string>
+    <string name="register">New User? Register now</string>
+
+    getString(R.string.a6)
+
+    <string name="a1">TTS Initialization failed!</string>
+    <string name="a2">Added to Favorite</string>
+    <string name="a3">the Article is already added in Favorite</string>
+    <string name="a4">Removed from favorites</string>
+    <string name="a5">No Favorite to Show</string>
+    <string name="a6">Enter Email..!</string>
+    <string name="a7">Enter password!</string>
+    <string name="a8">Password too short, enter minimum 6 characters</string>
+    <string name="a9">No Internet</string>
+    <string name="a10">Please check your Internet Connection?</string>
+    <string name="a11">Check Now</string>
+    <string name="a12">Close</string>
+    <string name="shared_main">userdetail</string>
+    <string name="shared_mobile">mobile</string>
+    <string name="shared_password">password</string>
+    <string name="a13">Password is too short</string>
+    <string name="a14">Authentication Failed</string>
+    <string name="a15">createUserWithEmail:onComplete:</string>
+    <string name="a16">Authentication failed.</string>
+    <string name="shared_fav_main">com.surya.dailynews</string>
+    <string name="share_fav_desc">desc</string>
+    <string name="a17">Daily News: Business in US</string>
+    <string name="a18">Daily News: The India</string>
+    <string name="a19">Daily News: WallStreet</string>
+    <string name="a20">Daily News: Bitcoin</string>
+    <string name="a21">Daily News: Favorite</string>
+
+</resources>
