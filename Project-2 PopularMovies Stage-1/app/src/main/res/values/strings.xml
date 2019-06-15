@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="api_key">api_key=6f27c7f326470ff9914e030e4931ca55</string>
+    <string name="movie_main_url">http://api.themoviedb.org/3/movie/popular?</string>
+    <string name="popular_url">http://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc</string>
+    <string name="top_rate_url">http://api.themoviedb.org/3/movie/top_rated?</string>
+    <string name="base_poster_url">http://image.tmdb.org/t/p/</string>
+    <string name="marval_list_url">http://api.themoviedb.org/4/list/1?</string>
+</resources>
